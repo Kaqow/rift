@@ -1,0 +1,19 @@
+{
+  "name": "rift",
+  "version": "1.0.0",
+  "description": "Rift bot for Rift Factions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kapow",
+  "license": "ISC",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.4.2",
+    "moment": "^2.23.0",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "os": "^0.1.1"
+  }
+}
